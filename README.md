@@ -1,5 +1,5 @@
 # Peer-graded assignment
-Created: 
-Tue Oct  8 16:06:44 CEST 2019
-\n Number of lines in code: 
+- Created: 
+Tue Oct  8 16:14:26 CEST 2019
+- Number of lines in code: 
 23
